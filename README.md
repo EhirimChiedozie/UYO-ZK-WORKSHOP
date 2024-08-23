@@ -13,7 +13,6 @@
     
 #Description
 
-
   #First Workshop:
   
     open your git bash terminal and clone the repository using `git clone https://github.com/EhirimChiedozie/UYO-ZK-WORKSHOP`

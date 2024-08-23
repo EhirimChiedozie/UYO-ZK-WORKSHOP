@@ -19,7 +19,7 @@
     cd into the repository `cd UYO-ZK-WORKSHOP`
     then cd into the first workshop folder `cd chiedozieehirim`
     run the program `leo run main 3u32 5u32 --network testnet`
-    this return 8u32 which is the sum of 3u32 and 5u32.
+    this returns 8u32 which is the sum of 3u32 and 5u32.
     To deploy, use `leo deploy`
     Note, before deployment go to the .env file and change the PRIVATE_KEY to your personal private key
 

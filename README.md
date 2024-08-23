@@ -12,7 +12,10 @@
 
     
 #Description
+
+
   #First Workshop:
+  
     open your git bash terminal and clone the repository using `git clone https://github.com/EhirimChiedozie/UYO-ZK-WORKSHOP`
     cd into the repository `cd UYO-ZK-WORKSHOP`
     then cd into the first workshop folder `cd chiedozieehirim`

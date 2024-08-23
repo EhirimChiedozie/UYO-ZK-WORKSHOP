@@ -28,10 +28,10 @@
     You can deploy by using `leo deploy`. Remember  to cange the PRIVATE_KEY in your .env file to your personal private
     key.
 
-    #Third Workshop
-    run `cd ..` to get into the root directory
-    then run `cd mmaduakolam_blockchain` to cd into the third workshop folder.
-    You can run the program using
-    `leo run combine_hash_owner_receiver <your leo wallet address> <your friend's leo wallet address>`
-    You can deploy by using `leo deploy`. Remember  to cange the PRIVATE_KEY in your .env file to your personal private
-    key.
+#Third Workshop
+  run `cd ..` to get into the root directory
+  then run `cd mmaduakolam_blockchain` to cd into the third workshop folder.
+  You can run the program using
+  `leo run combine_hash_owner_receiver <your leo wallet address> <your friend's leo wallet address>`
+  You can deploy by using `leo deploy`. Remember  to cange the PRIVATE_KEY in your .env file to your personal private
+  key.

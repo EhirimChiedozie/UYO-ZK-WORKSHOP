@@ -9,7 +9,7 @@
   Third Workshop:
     Transaction Id: at152t7733awv83jgkwtfa4sp685vae04y4ap7s5e5hq4uc38kwyy8q2qde0g
 
-
+![Preview](https://github.com/EhirimChiedozie/UYO-ZK-WORKSHOP/blob/master/aleodeployments.png?raw=true)
     
 #Description
 
